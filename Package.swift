@@ -20,8 +20,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "MapplsNearbyUI",
-            url: "https://mmi-api-team.s3.amazonaws.com/mappls-sdk-ios/mappls-nearby-ui/MapplsNearbyUI.xcframework-2.0.0.zip",
-            checksum: "8c3f8c7d4270ab8d83f3a170e161422958d2a668dd168dcc48d572bf61be732f"
+            url: "https://mmi-api-team.s3.amazonaws.com/mappls-sdk-ios/mappls-nearby-ui/MapplsNearbyUI.xcframework-2.0.1.zip",
+            checksum: "efbe46c5fa720e45553d2d98b71922e448eb0420d315046b78d26cd8943a921f"
         ),
         .target(
             name: "MapplsNearbyUIWrapper",
